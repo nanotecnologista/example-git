@@ -78,7 +78,5 @@ Caso queira ver o repositório do 'Projeto-01', aqui está o [link](https://gith
 ---
 ---
 ---
-Galera, peço que me perdoem pela repetição de palavras e também se eu não consegui ser muito explicita.
-Se vocês tiverem dúvidas ou outras alternativas ou puderem complementar o conteúdo, por favor, sintam-se à vontade para comentar. 
 
 Eu também tentei adicionar ao .gitignore de Projetos o .git, mas mesmo assim ele não destravou o acesso as subpastas no GitHub.
