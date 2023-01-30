@@ -1,2 +1,7 @@
 /projeto-01/.git/
 .git
+.idea/.gitignore
+.idea/git_toolbox_prj.xml
+.idea/modules.xml
+.idea/projetos.iml
+.idea/vcs.xml
